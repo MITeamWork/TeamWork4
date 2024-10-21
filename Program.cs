@@ -11,6 +11,7 @@ namespace TeamWork4
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Mouad ,How are you ?");
+            Console.WriteLine("This is our first project.");
         }
     }
 }
