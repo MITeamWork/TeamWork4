@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamWork4", "TeamWork4.csproj", "{FB97684F-E73C-4DCF-A18F-0B16204CB256}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB97684F-E73C-4DCF-A18F-0B16204CB256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB97684F-E73C-4DCF-A18F-0B16204CB256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB97684F-E73C-4DCF-A18F-0B16204CB256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB97684F-E73C-4DCF-A18F-0B16204CB256}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD16827-EC6A-4921-969F-E9E0A6A61CED}
+	EndGlobalSection
+EndGlobal
