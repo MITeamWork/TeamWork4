@@ -12,6 +12,8 @@ namespace TeamWork4
         {
             Console.WriteLine("Hello Mouad ,How are you ?");
             Console.WriteLine("This is our first project.");
+            Console.WriteLine("hello bro how are you this is my fist message " +
+                "in this project");
         }
     }
 }
